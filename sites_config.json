@@ -1,0 +1,105 @@
+{
+    "Milenio Stage2": {
+        "name": "Milenio Stage2",
+        "base_url": "http://stage2-front.milenio.com",
+        "api_base": "https://stage2-api.milenio.com/v2",
+        "slugs": {
+            "Home":"/",
+            "Monterrey": "/opinion/monterrey",
+            "Jalisco": "/opinion/jalisco",
+            "Estado Mexico": "/opinion/edomex",
+            "laguna": "/opinion/laguna",
+            "tamaulipas": "/opinion/tamaulipas",
+            "puebla": "/opinion/puebla",
+            "leon": "/opinion/leon",
+            "hidalgo": "/opinion/hidalgo",
+            "moneros": "/opinion/moneros",
+            "Dominga": "/dominga",
+            "Virales": "/virales",
+            "Politica": "/politica",
+            "Negocios": "/negocios",
+            "Espectaculos": "/espectaculos",
+            "Television": "/mileniotv/videos",
+            "MilenioTV": "/mileniotv/programas",
+            "Mexico": "/cdmx",
+            "JaliscoRegional": "/jalisco",
+            "Liga": "/deportes/futbol",
+            "Americano": "/deportes/americano",
+            "Mascota": "/estilo/tu-mascota",
+            "Vinos":"/vinos-descorche/descorche",
+            "Internacional":"/internacional"
+        }
+    },
+    "Revista Fama": {
+        "name": "Revista Fama Stage",
+        "base_url": "https://stage-front.revistafama.com",
+        "api_base": "http://stage-api.revistafama.com/v1",
+        "slugs": {
+            "Home": "/",
+            "Celebridades": "/celebridades",
+            "Salud":"/salud-belleza",
+            "Tendencias":"/tendencias",
+            "Prueba":"/celebridades/miley-cyrus-triunfa-super-bowl-2021-outfit-cuero"
+        }
+    },
+    "Revista Chic": {
+        "name": "Revista Chic",
+        "base_url": "https://stage-front.chicmagazine.com.mx",
+        "api_base": "http://stage-api.chicmagazine.com.mx/v2",
+        "slugs": {
+            "Home": "/",
+            "UltimaHora":"/ultima-hora",
+            "Revistas":"/magazines",
+            "Estilo":"/estilo-de-vida",
+            "Personajes":"/personajes",
+            "Sociedad":"/sociedad",
+            "EstadoMex":"/estado-de-mexico",
+            "Moda":"/estilo-de-vida/moda",
+            "Diseño":"/estilo-de-vida/diseno",
+            "Viajes":"/estilo-de-vida/viajes",
+            "Arquitectura":"/estilo-de-vida/arquitectura"
+        }
+    },
+    "Medio Tiempo":{
+        "name": "Medio Tiempo",
+        "base_url": "http://stage-admin.mediotiempo.com",
+        "api_base":"http://stage-api.mediotiempo.com/v2",
+        "slugs":{
+            "Home":"/",
+            "Norte":"/norte",
+            "UltimaHora":"/ultima-hora",
+            "Liga":"/futbol/liga-mx",
+            "Estadisticas":"/futbol/liga-mx/estadisticas",
+            "SeleccionMex":"/futbol/seleccion-mayor",
+            "futbol":"/futbol",
+            "beisbol":"/beisbol/mlb",
+            "Videojuegos":"/videojuegos",
+            "opinion":"/opinion",
+            "Lucha":"/lucha-libre"
+        }
+    },
+    "Telediario MX":{
+        "name":"Telediario MX",
+        "base_url":"https://stage-front-mx.multimediosdigital.com",
+        "api_base":"http://stage-api-mx.multimediosdigital.com/v1",
+        "slugs":{
+            "Home":"/",
+            "UltimaHora":"/ultima-hora",
+            "Nacional":"/nacional",
+            "Economia":"/economia",
+            "Internacional":"/internacional",
+            "Espectaculos":"/espectaculos",
+            "Opinion":"/opinion",
+            "Deportes":"/deportes",
+            "Television":"/television",
+            "Monterrey":"/monterrey",
+            "Puebla":"/television/puebla",
+            "Bajio":"/television/leon",
+            "Guadalajara":"/television/guadalajara",
+            "Laguna":"/television/laguna",
+            "Durango":"/television/durango",
+            "Saltillo":"/television/saltillo",
+            "CTGN":"/television/cgtn"
+        }
+    }
+}
