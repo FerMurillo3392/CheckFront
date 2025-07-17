@@ -101,5 +101,29 @@
             "Saltillo":"/television/saltillo",
             "CTGN":"/television/cgtn"
         }
+    },
+    "Telediario CR":{
+        "name":"Telediario CR",
+        "base_url":"https://stage-front-cr.multimediosdigital.com",
+        "api_base":"http://stage-api-cr.multimediosdigital.com/v1",
+        "slugs":{
+            "Home":"/",
+            "UltimaHora":"/ultima-hora",
+            "Nacional":"/nacional",
+            "Economia":"/economia",
+            "Internacional":"/internacional",
+            "Espectaculos":"/espectaculos",
+            "Opinion":"/opinion",
+            "Deportes":"/deportes",
+            "Television":"/television",
+            "Monterrey":"/monterrey",
+            "Puebla":"/television/puebla",
+            "Bajio":"/television/leon",
+            "Guadalajara":"/television/guadalajara",
+            "Laguna":"/television/laguna",
+            "Durango":"/television/durango",
+            "Saltillo":"/television/saltillo",
+            "CTGN":"/television/cgtn"
+        }
     }
 }
